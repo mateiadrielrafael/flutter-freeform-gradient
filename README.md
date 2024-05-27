@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/flutter-freeform-gradient](https://github.com/prescientmoon/flutter-freeform-gradient) 🚧
 # Flutter freeform gradient
 
 This is a demonstration project to show usage of Flutter with Nix.
